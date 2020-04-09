@@ -24,12 +24,12 @@ npm i -g @adonisjs/cli
 npm install sqlite3 --save
 
 adonis serve --dev
+```
 
 
 
 ### Compiles and minifies for production
 ```
-
 /vue-to-do-list-adonis
 cd client 
 
